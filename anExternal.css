@@ -1,0 +1,30 @@
+body {
+  background-color: pink;
+}
+.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: dotted;
+}
+.blockquote1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.container {
+    position: relative;
+      text-align: center;
+      color: blue;
+}
+.centered {
+    position: absolute;
+      top: 50%;
+        left: 50%;
+          transform: translate(-50%, -50%);
+}
+.FFXIV {
+  float: right;
+}
+
+.p1 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+}
